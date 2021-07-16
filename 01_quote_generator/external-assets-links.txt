@@ -1,0 +1,27 @@
+
+011 Quote-Generator-Live-Demo
+https://jacintodesign.github.io/quote-generator/
+
+012 Hero-Patterns
+https://www.heropatterns.com/
+
+012 Google-Fonts
+https://fonts.google.com
+
+013 FontAwesome-Icons
+https://fontawesome.com/icons?d=gallery&q=close&m=free
+
+015 Random-Quote-API
+https://forismatic.com/en/api/
+
+015 Fix-CORS-Error-Article
+https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
+
+018 Twitter-Integration-Documentation
+https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
+
+019 W3Schools-Loader
+https://www.w3schools.com/howto/howto_css_loader.asp
+
+020 Quote-Generator-Github
+https://github.com/JacintoDesign/quote-generator

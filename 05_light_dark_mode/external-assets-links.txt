@@ -1,0 +1,33 @@
+
+048 Light-Dark-Mode-Live-Demo
+https://jacintodesign.github.io/light-dark-mode/
+
+049 Dark-Mode-Colors-How-to-Article
+https://blog.prototypr.io/how-to-design-a-dark-theme-for-your-android-app-3daeb264637
+
+049 Mozilla-CSS-Variables
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+
+049 Hero-Patterns
+https://www.heropatterns.com/
+
+050 Google-Fonts
+https://fonts.google.com
+
+050 Undraw-Illustrations
+https://undraw.co/illustrations
+
+050 FontAwesome-Icons
+https://fontawesome.com/icons?d=gallery&q=close&m=free
+
+051 W3Schools-Switch
+https://www.w3schools.com/howto/howto_css_switch.asp
+
+051 W3Schools-Change-Event
+https://www.w3schools.com/jsref/event_onchange.asp
+
+051 Mozilla-Document-Element
+https://developer.mozilla.org/en-US/docs/Web/API/Document/documentElement
+
+054 Light-Dark-Mode-Github
+https://github.com/JacintoDesign/light-dark-mode
